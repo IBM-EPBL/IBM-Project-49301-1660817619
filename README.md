@@ -2,8 +2,8 @@
 ![ibm1](https://user-images.githubusercontent.com/111354081/197760924-f864bb9d-bc69-4117-8f7e-da15d4977074.png)
 <h2 align="left">A Novel Method for Handwritten Digit Recognition System
  <a href="https://github.com/IBM-EPBL/IBM-Project-49301-1660817619.git" target="_blank"><picture>
-  <source srcset="https://user-images.githubusercontent.com/111354081/197768937-a7f69a82-aac0-48e5-bb6a-aa65edb21ccd.gif" type="image/webp">
-  <img src="https://user-images.githubusercontent.com/111354081/197768937-a7f69a82-aac0-48e5-bb6a-aa65edb21ccd.gif" alt="️📝" width="78" height="60">
+  <source srcset="https://media3.giphy.com/media/Y4gjUjDLah9cwiBh6B/giphy.gif" type="image/webp">
+  <img src="https://media3.giphy.com/media/Y4gjUjDLah9cwiBh6B/giphy.gif" alt="️📝" width="78" height="60">
 </picture></a></h2>
 
 <h3 align="left">  A Advanced Project To Detect Digits From a Hand  Written image  Made with  <picture>
