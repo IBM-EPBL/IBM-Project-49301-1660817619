@@ -1,5 +1,5 @@
 # IBM-Project-49301-1660817619
-![ibm1](https://user-images.githubusercontent.com/111354081/197760924-f864bb9d-bc69-4117-8f7e-da15d4977074.png)
+![ibm1](https://pngimg.com/uploads/ibm/ibm_PNG19659.png)
 <h2 align="left">A Novel Method for Handwritten Digit Recognition System
  <a href="https://github.com/IBM-EPBL/IBM-Project-49301-1660817619.git" target="_blank"><picture>
   <source srcset="https://media0.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e47yz09c9218xcionibc4qx8dqe2fytptt720a1d9uh&rid=giphy.gif&ct=g" type="image/webp">
