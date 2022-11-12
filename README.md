@@ -2,8 +2,8 @@
 ![ibm1](https://user-images.githubusercontent.com/111354081/197760924-f864bb9d-bc69-4117-8f7e-da15d4977074.png)
 <h2 align="left">A Novel Method for Handwritten Digit Recognition System
  <a href="https://github.com/IBM-EPBL/IBM-Project-49301-1660817619.git" target="_blank"><picture>
-  <source srcset="https://media2.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47qhkuk6o1vy7377va13claslxczgskgd9b3jb1ek3&rid=giphy.gif&ct=g" type="image/webp">
-  <img src="https://media2.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47qhkuk6o1vy7377va13claslxczgskgd9b3jb1ek3&rid=giphy.gif&ct=g" alt="️📝" width="78" height="60">
+  <source srcset="[https://media2.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47qhkuk6o1vy7377va13claslxczgskgd9b3jb1ek3&rid=giphy.gif&ct=g](https://media0.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e47yz09c9218xcionibc4qx8dqe2fytptt720a1d9uh&rid=giphy.gif&ct=g)" type="image/webp">
+  <img src="[https://media2.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47qhkuk6o1vy7377va13claslxczgskgd9b3jb1ek3&rid=giphy.gif&ct=g](https://media0.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e47yz09c9218xcionibc4qx8dqe2fytptt720a1d9uh&rid=giphy.gif&ct=g)" alt="️📝" width="78" height="60">
 </picture></a></h2>
 
 <h3 align="left">  A Advanced Project To Detect Digits From a Hand  Written image  Made with  <picture>
