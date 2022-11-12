@@ -7,8 +7,8 @@
 </picture></a></h2>
 
 <h3 align="left">  A Advanced Project To Detect Digits From a Hand  Written image  Made with  <picture>
-  <source srcset="https://media.giphy.com/media/eH9sawQbajAQM/giphy.gif" type="image/webp">
-  <img src="https://media.giphy.com/media/eH9sawQbajAQM/giphy.gif" alt="❤" width="99" height="30">
+  <source srcset="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47xi5bhj3u9w850590yflzhstcih6v2crm2tnoyiy5&rid=giphy.gif&ct=g" type="image/webp">
+  <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47xi5bhj3u9w850590yflzhstcih6v2crm2tnoyiy5&rid=giphy.gif&ct=g" alt="❤" width="99" height="30">
 </picture> </h3>
 <p align="center">
 <a href="https://www.ibm.com/in-en">
