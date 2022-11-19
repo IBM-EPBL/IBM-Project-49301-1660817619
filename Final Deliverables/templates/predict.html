@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Prediction | Handwritten Digit Recognition</title>
+		<link rel="stylesheet" href="{{url_for('static',filename='css/predict.css')}}" />
+		<link rel="icon" type="image/x-icon" sizes="32x32" href="{{url_for('static',filename='../static/images/icons.png')}}" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	</head>
+	<body id="body">
+		<div class="container">
+			<h1>Prediction</h1>
+			<div class="result-wrapper">
+				<div class="input-image-container">
+					<img src="{{url_for('static',filename='data/')}}{{img_name}}" />
+				</div>
+				<div class="result-container">
+					<div class="value">{{best.0}}</div>
+					<div class="accuracy">{{best.1}}%</div>
+				</div>
+			</div>
+			<a href="/home" class="next">Next Prediction</a>
+
+		</div>
+	</body>
+</html>

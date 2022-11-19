@@ -1,0 +1,73 @@
+<html>
+
+<head>
+    <title>Prediction | Handwritten Digit Recognition</title>
+    <link rel="icon" type="images/x-icon" sizes="32x32" href="{{url_for('static',filename='../static/images/icons.png')}}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body id="body">
+    <img src="../static/images/ibm.avif" alt="" height="100" width="110">
+    <div id="align">
+        <h1>Handwritten Recognition System</h1>
+        <p class="text text-dark" >
+        <i>Handwritten Text Recognition is an technology that is much needed in this world as of today. Digit
+            recognition system is the working of a machine to train itself or recognizing the digits from different
+            sources
+            like emails, bank cheque, papers, images, etc.and in different real-world scenarios for online handwriting
+            recognition
+            on computer tablets or system, recognize number plates of vehicles, processing bank cheque amounts,numeric
+            entries
+            in forms filled up by hand.It is difficult to store and access physical data with efficiency.The project
+            presents recognizing the handwritten digits[0-9] from the famous MNIST dataset.Here we will be using
+            Artificial Neural Network.</i>
+        </p>
+        <a href="/home">Recognize</a>
+    </div>
+                
+
+<style>
+    body{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        background: url("../static/images/image3.jpg") no-repeat center/cover;
+        z-index: -1;
+
+    }
+
+    #body a{
+        text-decoration: none;
+        color: white;
+        border: 2px;
+        border: none;
+        outline: none;
+        padding-top: 5px;
+        padding-bottom: 4px;
+        padding-left: 7px;
+        padding-right: 7px;
+        background-color: rgb(9, 9, 9);
+        margin-top: 80px;
+        font-size: large;
+        font-weight: 600;
+    }
+    #body p i{
+        cursor: arrow;
+    }
+
+    #align{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #align p{
+        margin-left: 90px;
+        margin-right: 90px ;
+    }
+</style>
+</body>
+
+
+</html>
